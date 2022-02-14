@@ -1,3 +1,5 @@
+# DEPRICATED
+## As of 2/14/2022 (Writing time) This is now archived and read-only!
 
 # XapperLoader
 
